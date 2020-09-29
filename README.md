@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am ADSI Technologist from SENA, Student of PLATZI MASTER and future Enginee.
+I am ADSI Technologist from SENA, Student of PLATZI MASTER and future Engineer.
 
 
 
