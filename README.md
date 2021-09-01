@@ -5,8 +5,5 @@ I am ADSI Technologist from SENA, Student of PLATZI MASTER and future Engineer.
 
 
 - 🔭 I’m currently working on ...
-    💻 SEAPTO S.A/INVERCOMES with PHP, JAVASCRIPT
-
-- 🌱 I’m currently learning ...
-    📕 Node.js with PLATZI MASTER
+    💻 IBACREA S.A. with PHP, LARAVEL
 
